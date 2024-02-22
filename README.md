@@ -150,7 +150,7 @@ While an in-depth knowledge about the Transformer architecture is not required, 
 * **Text generation**: Learn about the different ways the model can generate output sequences. Common strategies include greedy decoding, beam search, top-k sampling, and nucleus sampling.
 
 📚 **References**:
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar: A visual and intuitive explanation of the Transformer model.
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar: A visual and intuitive explanation of the Transformer model.[x]
 - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/) by Jay Alammar: Even more important than the previous article, it is focused on the GPT architecture, which is very similar to Llama's.
 - [LLM Visualization](https://bbycroft.net/llm) by Brendan Bycroft: Incredible 3D visualization of what happens inside of an LLM.
 * [nanoGPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) by Andrej Karpathy: A 2h-long YouTube video to reimplement GPT from scratch (for programmers).
